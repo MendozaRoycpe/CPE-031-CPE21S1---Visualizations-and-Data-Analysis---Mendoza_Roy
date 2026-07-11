@@ -48,7 +48,7 @@ This repository serves as a centralized archive for all coursework related to **
 
 ```text
 CPE031-Visualizations-and-Data-Analysis/
-├── Hands On Activities
+├── Hands On Activities | LINK: https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/tree/main/Hands%20On%20Activities
 ├── Exams/Tests
 ├── Waiting for further updates
 ```
