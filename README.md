@@ -1,6 +1,17 @@
 # CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy
 # 📊 CPE 031 - Visualizations and Data Analysis
+<p align="center">
+    <img src="assets/banner.png" width="100%">
+</p>
 
+
+<h1 align="center">
+CPE 031 – Visualizations and Data Analysis
+</h1>
+
+<p align="center">
+Python • Pandas • NumPy • Matplotlib • Seaborn • Plotly
+</p>
 <details open>
 <summary><strong>📘 Course Information</strong></summary>
 
@@ -136,6 +147,7 @@ pip install -r requirements.txt
 
 <details>
 <summary><strong>👨‍💻 Author</strong></summary>
+<img width="379" height="694" alt="Screenshot 2026-05-28 133551" src="https://github.com/user-attachments/assets/dc9c7ba8-044a-4c41-ac66-74465d98a876" />
 
 **Name:** Roy Gabriel I. Mendoza
 
