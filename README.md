@@ -89,7 +89,7 @@ CPE031-Visualizations-and-Data-Analysis/
 <summary><strong>⚙️ Installation</strong></summary>
 
 ```bash
-git clone https://github.com/yourusername/CPE031-Visualizations-and-Data-Analysis.git
+[git clone https://github.com/yourusername/CPE031-Visualizations-and-Data-Analysis.git](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy.git)
 
 cd CPE031-Visualizations-and-Data-Analysis
 
