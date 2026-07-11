@@ -106,12 +106,12 @@ pip install -r requirements.txt
 <details>
 <summary><strong>📂 Projects</strong></summary>
 
-| Laboratory | Status |
-|------------|--------|
-| Lab 1 | 🚧 |
-| Lab 2 | 🚧 |
-| Lab 3 | 🚧 |
-| Final Project | ⏳ |
+| Laboratory | Status |  LINK  |
+|------------|--------|--------|
+| Lab 1 | 🚧 |--------|--------|
+| Lab 2 | 🚧 |--------|--------|
+| Lab 3 | 🚧 |--------|--------|
+| Final Project | ⏳ |--------|--------|
 
 </details>
 
