@@ -4,9 +4,9 @@
 <details open>
 <summary><strong>📘 Course Information</strong></summary>
 
-<h1 align="center">
+<h2 align="center">
 📊 CPE 031 – Visualizations and Data Analysis
-</h1>
+</h2>
 
 <p align="center">
 Laboratory Repository • Data Analysis • Python
