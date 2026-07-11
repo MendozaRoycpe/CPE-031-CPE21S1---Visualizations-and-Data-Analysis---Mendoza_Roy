@@ -125,7 +125,7 @@ pip install -r requirements.txt
 <img width="379" height="694" alt="Screenshot 2026-05-28 133551" src="https://github.com/user-attachments/assets/dc9c7ba8-044a-4c41-ac66-74465d98a876" width="180" style="border-radius:50%;">
 </p>
 
-<h3 align="center"> Roy Gabriel I. Mendoza</h2>
+<h3 align="center"> **ℝ𝕠𝕪 𝔾𝕒𝕓𝕣𝕚𝕖𝕝 𝕀. 𝕄𝕖𝕟𝕕𝕠𝕫𝕒**</h1>
 
 <p align="center">
 Computer Engineering Student<br>
