@@ -48,15 +48,10 @@ This repository serves as a centralized archive for all coursework related to **
 
 ```text
 CPE031-Visualizations-and-Data-Analysis/
-├── datasets/
-├── notebooks/
-├── python/
-├── figures/
-├── reports/
-├── docs/
-└── README.md
+├── Hands On Activities
+├── Exams/Tests
+├── Waiting for further updates
 ```
-
 </details>
 
 <details>
