@@ -79,12 +79,7 @@ CPE031-Visualizations-and-Data-Analysis/
 
 - Python
 - Jupyter Notebook
-- Pandas
 - NumPy
-- Matplotlib
-- Seaborn
-- Plotly
-- Scikit-learn
 - Git
 - GitHub
 
@@ -108,8 +103,8 @@ pip install -r requirements.txt
 
 | Laboratory | Status |
 |------------|--------|
-| Lab 1 | ✅ |
-| Lab 2 | ✅ |
+| Lab 1 | 🚧 |
+| Lab 2 | 🚧 |
 | Lab 3 | 🚧 |
 | Final Project | ⏳ |
 
@@ -142,10 +137,10 @@ pip install -r requirements.txt
 <details>
 <summary><strong>👨‍💻 Author</strong></summary>
 
-**Name:** Your Name
+**Name:** Roy Gabriel I. Mendoza
 
 **Course:** CPE 031 – Visualizations and Data Analysis
 
-**Institution:** Your University
+**Institution:** Technological Institute of the Philippines
 
 </details>
