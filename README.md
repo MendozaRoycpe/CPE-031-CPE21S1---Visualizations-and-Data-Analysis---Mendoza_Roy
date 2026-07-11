@@ -3,9 +3,17 @@
 
 <details open>
 <summary><strong>📘 Course Information</strong></summary>
+<p align="center">
+  <img src="assets/banner.png" width="150%">
+</p>
 
-## 📊 CPE 031 – Visualizations and Data Analysis
+<h1 align="center">
+📊 CPE 031 – Visualizations and Data Analysis
+</h1>
 
+<p align="center">
+Laboratory Repository • Data Analysis • Python
+</p>
 This repository contains laboratory exercises, programming activities, assignments, and projects completed for **CPE 031 – Visualizations and Data Analysis**. The course focuses on transforming raw data into meaningful insights through data preprocessing, exploratory analysis, statistical methods, and effective visualizations using Python.
 
 ### 🎯 Course Objectives
@@ -136,7 +144,16 @@ pip install -r requirements.txt
 
 <details>
 <summary><strong>👨‍💻 Author</strong></summary>
-<img width="379" height="694" alt="Screenshot 2026-05-28 133551" src="https://github.com/user-attachments/assets/dc9c7ba8-044a-4c41-ac66-74465d98a876" />
+  <p align="center">
+<img width="379" height="694" alt="Screenshot 2026-05-28 133551" src="https://github.com/user-attachments/assets/dc9c7ba8-044a-4c41-ac66-74465d98a876" width="180" style="border-radius:50%;">
+</p>
+
+<h3 align="center"> Roy Gabriel I. Mendoza</h2>
+
+<p align="center">
+Computer Engineering Student<br>
+Technological Institute of the Philippines
+</p>
 
 **Name:** Roy Gabriel I. Mendoza
 
