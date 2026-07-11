@@ -116,19 +116,6 @@ pip install -r requirements.txt
 </details>
 
 <details>
-<summary><strong>📊 Sample Visualizations</strong></summary>
-
-<p align="center">
-  <img src="figures/heatmap.png" width="700">
-</p>
-
-<p align="center">
-  <img src="figures/scatterplot.png" width="700">
-</p>
-
-</details>
-
-<details>
 <summary><strong>📈 Progress</strong></summary>
 
 - ✅ Repository Created
