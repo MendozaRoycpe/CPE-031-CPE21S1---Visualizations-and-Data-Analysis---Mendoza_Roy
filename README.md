@@ -37,11 +37,6 @@ This repository contains laboratory exercises, programming activities, assignmen
 - Jupyter Notebook
 - Visual Studio Code
 - NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Plotly
-- Scikit-learn
 - Git & GitHub
 
 ### 📂 Repository Purpose
