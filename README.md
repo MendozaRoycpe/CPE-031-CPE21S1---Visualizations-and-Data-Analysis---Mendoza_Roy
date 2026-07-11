@@ -11,7 +11,8 @@
 <p align="center">
 Laboratory Repository • Data Analysis • Python
 </p>
-This repository contains laboratory exercises, programming activities, assignments, and projects completed for **CPE 031 – Visualizations and Data Analysis**. The course focuses on transforming raw data into meaningful insights through data preprocessing, exploratory analysis, statistical methods, and effective visualizations using Python.
+This repository contains laboratory exercises, programming activities, assignments, and projects completed for **CPE 031 – Visualizations and Data Analysis**. 
+The course focuses on transforming raw data into meaningful insights through data preprocessing, exploratory analysis, statistical methods, and effective visualizations using Python.
 
 ### 🎯 Course Objectives
 
@@ -25,17 +26,8 @@ This repository contains laboratory exercises, programming activities, assignmen
 
 ### 📚 Core Topics
 
-- Data Collection and Importing
-- Data Cleaning and Preprocessing
-- Data Wrangling
-- Exploratory Data Analysis (EDA)
-- Descriptive Statistics
-- Data Visualization
-- Correlation and Regression Analysis
-- Time Series Visualization
-- Dashboard Design
-- Introduction to Machine Learning Concepts
-
+- Waiting for Module
+  
 ### 🛠️ Software & Libraries
 
 - Python
