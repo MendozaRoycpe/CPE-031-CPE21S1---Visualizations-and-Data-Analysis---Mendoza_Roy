@@ -3,9 +3,6 @@
 
 <details open>
 <summary><strong>📘 Course Information</strong></summary>
-<p align="center">
-  <img src="assets/banner.png" width="150%">
-</p>
 
 <h1 align="center">
 📊 CPE 031 – Visualizations and Data Analysis
