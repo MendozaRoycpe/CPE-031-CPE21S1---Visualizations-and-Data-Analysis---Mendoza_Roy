@@ -151,5 +151,6 @@ pip install -r requirements.txt
 **Course:** CPE 031 – Visualizations and Data Analysis
 
 **Institution:** Technological Institute of the Philippines
+<img width="2048" height="1365" alt="a59e02d1-a11e-4f2c-a573-1c70a01e5f25" src="https://github.com/user-attachments/assets/f99a5eef-d807-4b59-a7f9-e89a1d19fb86" />
 
 </details>
