@@ -4,7 +4,49 @@
 <details open>
 <summary><strong>📘 Course Information</strong></summary>
 
-Add your course details here.
+## 📊 CPE 031 – Visualizations and Data Analysis
+
+This repository contains laboratory exercises, programming activities, assignments, and projects completed for **CPE 031 – Visualizations and Data Analysis**. The course focuses on transforming raw data into meaningful insights through data preprocessing, exploratory analysis, statistical methods, and effective visualizations using Python.
+
+### 🎯 Course Objectives
+
+- Develop fundamental skills in data analysis and interpretation.
+- Perform data cleaning, preprocessing, and transformation.
+- Apply exploratory data analysis (EDA) techniques.
+- Create informative and visually appealing charts and graphs.
+- Interpret trends, patterns, and relationships within datasets.
+- Communicate analytical findings through reports and visualizations.
+- Utilize industry-standard Python libraries for data science workflows.
+
+### 📚 Core Topics
+
+- Data Collection and Importing
+- Data Cleaning and Preprocessing
+- Data Wrangling
+- Exploratory Data Analysis (EDA)
+- Descriptive Statistics
+- Data Visualization
+- Correlation and Regression Analysis
+- Time Series Visualization
+- Dashboard Design
+- Introduction to Machine Learning Concepts
+
+### 🛠️ Software & Libraries
+
+- Python
+- Jupyter Notebook
+- Visual Studio Code
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+- Scikit-learn
+- Git & GitHub
+
+### 📂 Repository Purpose
+
+This repository serves as a centralized archive for all coursework related to **CPE 031**, including laboratory exercises, notebooks, datasets, reports, visualizations, and the final course project. It also documents the learning process and demonstrates practical applications of data analysis and visualization techniques.
 
 </details>
 
