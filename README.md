@@ -1,14 +1,6 @@
 # CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy
 # 📊 CPE 031 - Visualizations and Data Analysis
 
-
-<h1 align="center">
-CPE 031 – Visualizations and Data Analysis
-</h1>
-
-<p align="center">
-Python • Pandas • NumPy • Matplotlib • Seaborn • Plotly
-</p>
 <details open>
 <summary><strong>📘 Course Information</strong></summary>
 
