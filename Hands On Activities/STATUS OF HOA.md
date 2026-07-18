@@ -4,7 +4,7 @@
 
 HOA Activity: 1
 
-<details>
+
 <summary><strong>📂 Projects</strong></summary>
 
 | Laboratory | Status | LINK |
@@ -13,5 +13,3 @@ HOA Activity: 1
 | Lab 2 | 🚧 | -------- |
 | Lab 3 | 🚧 | -------- |
 | Final Project | ⏳ | -------- |
-
-</details>
