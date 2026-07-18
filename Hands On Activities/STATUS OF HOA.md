@@ -1,6 +1,6 @@
 ## HANDS ON ACTIVITIES
 
-###Current Progress:
+##Current Progress:
 
 HOA Activity: 1
 
