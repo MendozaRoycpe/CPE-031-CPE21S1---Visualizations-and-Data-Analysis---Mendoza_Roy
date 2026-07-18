@@ -1,5 +1,9 @@
 ## HANDS ON ACTIVITIES
 
+###Current Progress:
+
+HOA Activity: 1
+
 <details>
 <summary><strong>📂 Projects</strong></summary>
 
