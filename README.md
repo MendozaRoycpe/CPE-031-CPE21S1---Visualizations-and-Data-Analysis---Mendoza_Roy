@@ -60,7 +60,7 @@ This repository serves as a centralized archive for all coursework related to **
 | Folder | Description | Link |
 |--------|-------------|:----:|
 | 📝 Hands-On Activities | Laboratory exercises and activities | [📂 Open](./Hands%20On%20Activities) |
-| 📝 Quizzes and Exams| Quizzes, exams, and assessments | [📂 Open](./Exams%20and%20Tests) |
+| 📝 Quizzes and Exams| Quizzes, exams, and assessments | [📂 Open](./Quiz%20and%20Exams) |
 | 🚧 More folders | Future course materials | Coming Soon |
 
 </details>
