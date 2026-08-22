@@ -1,0 +1,3 @@
+Hands-On Activity 5 | Chart Type
+
+Analyzed a road accident dataset to practice selecting appropriate chart types for different data relationships. Created and justified the use of pie charts, bar charts, scatter charts, bubble charts, line charts, column charts, heat maps, and tree maps using Python (Matplotlib, Seaborn, Squarify). Discussed when tables are more appropriate than charts. Includes a supplementary activity visualizing earthquake distribution by country using a natural disasters dataset.

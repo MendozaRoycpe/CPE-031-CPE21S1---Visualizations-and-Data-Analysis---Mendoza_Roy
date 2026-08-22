@@ -1,0 +1,3 @@
+Hands-On Activity 2 | Interactive Widget
+
+Completed a three-part interactive lab on data pipelines. Identified differences between data formats (CSV, XML, JSON) and their real-world sources (e.g., XML from vending machines). Diagnosed and resolved common data pipeline errors including duplicate rows, corrupted rows, and empty entries. Practiced standardizing inconsistent data, such as mismatched temperature units, and reflected on how formatting errors and user-input inconsistencies can affect data readability even after decryption/conversion is fixed.
