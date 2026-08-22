@@ -60,6 +60,7 @@ This repository serves as a centralized archive for all coursework related to **
 | Folder | Description | Link |
 |--------|-------------|:----:|
 | 📝 Hands-On Activities | Laboratory exercises and activities | [📂 Open](./Hands%20On%20Activities) |
+| 📝 Assignments and Seatwork | Assignment tasks for a long time, and some Quick Graded Work | [📂 Open](./Assignments%20and%20Seatworks) |
 | 📝 Quizzes and Exams| Quizzes, exams, and assessments | [📂 Open](./Quiz%20and%20Exams) |
 | 🚧 More folders | Future course materials | Coming Soon |
 
@@ -110,6 +111,12 @@ pip install -r requirements.txt
 | HOA 2 | ✅ | [HOA 2](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/tree/main/Hands%20On%20Activities/HOA%202%20(July29%202026))|
 | HOA 3 | ✅ | [HOA 3](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/tree/main/Hands%20On%20Activities/HOA%203%20(Aug1%202026))|
 | HOA 4 | ✅ | [HOA 4](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/tree/main/Hands%20On%20Activities/HOA%204%20(Aug8%202026))|
+| ASSIGNMENT 1.1 | ✅ | [ASSIGNMENT 1.1](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/blob/main/Assignments%20and%20Seatworks/Assignment%201.1_Mendoza%2CRoy%20-%20Colab.pdf)|
+| QUIZ 1 | ✅ | [QUIZ 1](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/blob/main/Quiz%20and%20Exams/QUIZ1-CPE031_MENDOZA_ROY.png)|
+| QUIZ 2 | ✅ | [QUIZ 2](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/blob/main/Quiz%20and%20Exams/QUIZ2-CPE031_MENDOZA_ROY.png)|
+| QUIZ 3 | ✅ | [QUIZ 3](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/blob/main/Quiz%20and%20Exams/QUIZ3-CPE031_Mendoza_Roy_Aug8_2026.png)|
+| QUIZ 4 | ✅ | [QUIZ 4](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/blob/main/Quiz%20and%20Exams/QUIZ4CPE031_Mendoza_Roy_August15_2026.png)|
+| PRELIM EXAMINATION | ✅ | [PRELIM EXAMINATION](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/blob/main/Quiz%20and%20Exams/PRELIM_EXAM_MENDOZA_ROY.png)|
 |MIDTERM |--------|------|
 | HOA 5 | ✅ | [HOA 5](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/tree/main/Hands%20On%20Activities/HOA%205%20(Aug22%202026))|
 | HOA 6 | 🚧 | -------- |
@@ -126,6 +133,7 @@ pip install -r requirements.txt
 - ✅ Repository Created
 - ✅ Initial Setup
 - ✅ Hands On Activities PRELIM Period
+- ✅ Assignments and Seatworks PRELIM Period
 - ✅ Quizzes PRELIM Period
 - ✅ Exam PRELIM Period
 - ⏳ Hands On Activities MIDTERM Period
