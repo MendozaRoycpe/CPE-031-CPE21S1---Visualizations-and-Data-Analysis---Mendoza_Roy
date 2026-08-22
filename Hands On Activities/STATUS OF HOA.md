@@ -2,7 +2,7 @@
 
 ### Current Progress:
 
-HOA Activity: 1
+HOA Activity: 5
 
 
 <summary><strong>📂 Projects</strong></summary>
