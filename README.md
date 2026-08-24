@@ -30,7 +30,13 @@ The course focuses on transforming raw data into meaningful insights through dat
 <details>
 <summary><strong>📚 Core Topics</strong></summary>
 
-- Waiting for Module
+- Data Collection
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Statistical Analysis
+- Machine Learning Basics
 
 </details>
 
@@ -112,11 +118,11 @@ pip install -r requirements.txt
 | HOA 3 | ✅ | [HOA 3](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/tree/main/Hands%20On%20Activities/HOA%203%20(Aug1%202026))|
 | HOA 4 | ✅ | [HOA 4](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/tree/main/Hands%20On%20Activities/HOA%204%20(Aug8%202026))|
 | ASSIGNMENT 1.1 | ✅ | [ASSIGNMENT 1.1](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/blob/main/Assignments%20and%20Seatworks/Assignment%201.1_Mendoza%2CRoy%20-%20Colab.pdf)|
-| QUIZ 1 | ✅ | [QUIZ 1](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/blob/main/Quiz%20and%20Exams/QUIZ1-CPE031_MENDOZA_ROY.png)|
-| QUIZ 2 | ✅ | [QUIZ 2](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/blob/main/Quiz%20and%20Exams/QUIZ2-CPE031_MENDOZA_ROY.png)|
-| QUIZ 3 | ✅ | [QUIZ 3](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/blob/main/Quiz%20and%20Exams/QUIZ3-CPE031_Mendoza_Roy_Aug8_2026.png)|
-| QUIZ 4 | ✅ | [QUIZ 4](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/blob/main/Quiz%20and%20Exams/QUIZ4CPE031_Mendoza_Roy_August15_2026.png)|
-| PRELIM EXAMINATION | ✅ | [PRELIM EXAMINATION](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/blob/main/Quiz%20and%20Exams/PRELIM_EXAM_MENDOZA_ROY.png)|
+| QUIZ 1 | ✅ | [QUIZ 1](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/tree/main/Quiz%20and%20Exams/QUIZ1.md)|
+| QUIZ 2 | ✅ | [QUIZ 2](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/tree/main/Quiz%20and%20Exams/QUIZ2.md)|
+| QUIZ 3 | ✅ | [QUIZ 3](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/tree/main/Quiz%20and%20Exams/QUIZ3.md)|
+| QUIZ 4 | ✅ | [QUIZ 4](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/tree/main/Quiz%20and%20Exams/QUIZ4.md)|
+| PRELIM EXAMINATION | ✅ | [PRELIM EXAMINATION](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/tree/main/Quiz%20and%20Exams/PRELIM_EXAM.md)|
 |MIDTERM |--------|------|
 | HOA 5 | ✅ | [HOA 5](https://github.com/MendozaRoycpe/CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Mendoza_Roy/tree/main/Hands%20On%20Activities/HOA%205%20(Aug22%202026))|
 | HOA 6 | 🚧 | -------- |
